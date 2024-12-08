@@ -76,11 +76,11 @@ setListAdapter(adapter);
 
 笔记下方显示笔记的最终编辑保存时间：
 
-<img src="D:\下载\NotePad_new-master\011.png" alt="011" style="zoom:50%;" />
+<img src="011.png" alt="Screenshot" style="zoom:50%;" />
 
 功能描述：
 
-<img src="D:\下载\NotePad_new-master\001.png" alt="001" style="zoom:50%;" />
+<img src="001.png" alt="Screenshot" style="zoom:50%;" />
 
 ### 2. 搜索框功能
 
@@ -210,11 +210,13 @@ private void performSearch() {
 
 点击图中的搜索框输入标题，即可搜索：
 
-<img src="D:\下载\NotePad_new-master\022.png" alt="022" style="zoom:50%;" />
+<img src="021.png" alt="Screenshot" style="zoom:50%;" />
+
+<img src="022.png" alt="Screenshot" style="zoom:50%;" />
 
 功能描述：
 
-<img src="D:\下载\NotePad_new-master\002.png" alt="002" style="zoom:50%;" />
+<img src="002.png" alt="Screenshot" style="zoom:50%;" />
 
 ### 3. 修改背景色功能
 
@@ -320,11 +322,13 @@ private void setNightMode() {
 
 这个是白昼模式，点击上面的**(太阳/月亮)图标**会变成黑夜模式：
 
-<img src="D:\下载\NotePad_new-master\033.png" alt="033" style="zoom:50%;" />
+<img src="031.png" alt="Screenshot" style="zoom:50%;" />
+
+<img src="032.png" alt="Screenshot" style="zoom:50%;" />
 
 功能描述：
 
-<img src="D:\下载\NotePad_new-master\003.png" alt="003" style="zoom:50%;" />
+<img src="003.png" alt="Screenshot" style="zoom:50%;" />
 
 
 
@@ -382,8 +386,12 @@ private void toggleSortOrder() {
 
 点击图中的三个点，可以选择逆序、顺序。逆序则是按照时间由早到晚排序，顺序反之，是最新的放在最上面：
 
-<img src="D:\下载\NotePad_new-master\044.png" alt="044" style="zoom:50%;" />
+<img src="041.png" alt="Screenshot" style="zoom:50%;" />
+
+<img src="042.png" alt="Screenshot" style="zoom:50%;" />
 
 功能描述：
 
-<img src="D:\下载\NotePad_new-master\004.png" alt="004" style="zoom:50%;" />
+<img src="004.png" alt="Screenshot" style="zoom:50%;" />
+
+<img src="042.png" alt="Screenshot" style="zoom:50%;" />
